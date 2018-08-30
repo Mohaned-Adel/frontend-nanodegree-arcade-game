@@ -9,7 +9,7 @@ In order to play the game properly, consider the following steps:
 1. Clone project:
 
     ```
-    $ [sudo] git clone git@github.com:brenopolanski/udacity-classic-arcade-game-clone.git
+    $ [sudo] git clone https://github.com/Mohaned-Adel/frontend-nanodegree-arcade-game.git
 
 2. Open it:
     open the index.html file.
